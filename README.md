@@ -1,4 +1,4 @@
 # Snake game
- a simple snake game, not quite done yet
+ a simple snake game, finally done :D
 
 ![snake looks](snake_game.png)
